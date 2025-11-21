@@ -38,7 +38,7 @@ By completing this project, you will:
 mkdir climate-signals-api && cd climate-signals-api
 mkdir tests
 touch main.py database.py requirements.txt README.md tests/__init__.py tests/test_api.py
-
+---
 ## 4.2 Create Dataset File
 ```bash
 country,year,avg_temperature,co2_per_capita,sea_level_rise,rainfall,renewable_energy_percent,forest_area_percent,extreme_weather_events,population
