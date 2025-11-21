@@ -38,3 +38,6 @@ By completing this project, you will:
 mkdir climate-signals-api && cd climate-signals-api
 mkdir tests
 touch main.py database.py requirements.txt README.md tests/__init__.py tests/test_api.py
+
+### 4.2
+```bash
