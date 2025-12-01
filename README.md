@@ -35,7 +35,6 @@ This project aims to answer questions directly from the dataset:
 
 ### **Primary Questions**
 1. Which countries are experiencing the strongest rise in temperature over time?  
-2. Does CO₂ emission growth correlate with temperature increase?  
 3. How does renewable energy usage impact vulnerability?  
 4. Are extreme weather events increasing globally?  
 5. Which countries face the highest climate risk when combining all indicators?  
